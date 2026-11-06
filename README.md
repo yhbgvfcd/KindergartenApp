@@ -10,4 +10,7 @@
 
 ## 📂 Документация
 * [Скачать пояснительную записку (Word)](/Coursework_Britvina.docx)
+
 * [Скачать презентацию (PowerPoint)](/Presentation.pptx)
+## 📥 Скачать программу
+[Скачать программу (Release v1.0)](эttps://github.com/yhbgvfcd/Kindergarten-App/releases/tag/v1.0)**
