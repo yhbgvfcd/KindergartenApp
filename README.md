@@ -12,5 +12,3 @@
 * [Скачать пояснительную записку (Word)](/Coursework_Britvina.docx)
 
 * [Скачать презентацию (PowerPoint)](/Presentation.pptx)
-## 📥 Скачать программу
-[Скачать программу (Release v1.0)](/sha256:2126e816947580f1301b5879edc1c4412014b7fff2a24324d621726d8044920a)**
